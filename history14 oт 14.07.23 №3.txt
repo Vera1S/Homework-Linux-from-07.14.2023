@@ -1,0 +1,28 @@
+   0 mkdir -p /tmp/hw3/newfile/vera.txt
+   1 date +'%D' > vera.txt
+   2 echo "Homework 3" >> /tmp/hw3/newfile/vera.txt
+   3 nano vera.txt
+   4 cat vera.txt
+   5 df -h / >> /tmp/hw3/newfile/vera.txt
+   6 cd /home
+   7 df -h
+   8 df -h  >> /tmp/hw3/newfile/vera.txt
+   9 cat vera.txt
+  10 cd /tmp
+  11 cat vera.txt
+  12 cat /tmp/
+  13 cat /tmp/hw3/newfile/vera.txt
+  14 ls 
+  15 ls /newfile
+  16 tree
+  17 cat vera.txt
+  18 cat /tw3/newfile/vera.txt
+  19 nano vera.txt
+  20 history | tail -n 5 >> /tmp/hw3/newfile/vera.txt
+  21 nano vera.txt
+  22 grep "vendor" /proc/cpuinfo | sort -u >> /tmp/hw3/newfile/vera.txt
+  23 pwd
+  24 grep "vendor" /proc/cpuinfo | sort -u 
+  25 grep "vendor" /proc/cpuinfo | sort -u >> /tmp/hw3/newfile/vera.txt
+  26 nano vera.txt
+  27 history > history14.txt
